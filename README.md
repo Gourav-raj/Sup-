@@ -5,7 +5,10 @@
 
 ![Alt text](/Supss.png?raw=true "Sup ScreenShot")
 
+# Light Mode
+![Alt text](/supssLight.png?raw=true "Sup ScreenShot")
 
 
-# Build in React and uses chatengine 
+
+# Build in React and uses chatengine with real time read reciept feature and msg notification sound
 
