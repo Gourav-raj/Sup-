@@ -6,7 +6,7 @@
 ![Alt text](/Supss.png?raw=true "Sup ScreenShot")
 
 # Light Mode
-![Alt text](/supssLight.png?raw=true "Sup ScreenShot")
+![Alt text](/suppLight.png?raw=true "Sup ScreenShot")
 
 
 
